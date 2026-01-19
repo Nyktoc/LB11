@@ -1,0 +1,19 @@
+# Игнорируем скомпилированные файлы
+target/
+*.class
+*.jar
+
+# Игнорируем файлы IDE
+.idea/
+*.iml
+*.iws
+
+# Игнорируем системные файлы
+.DS_Store
+Thumbs.db
+
+# Игнорируем настройки редактора
+.vscode/
+.settings/
+.project
+.classpath
